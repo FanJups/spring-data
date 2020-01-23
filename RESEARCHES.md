@@ -4,3 +4,7 @@ https://www.google.com/search?q=difference+between+save+and+save+flush&oq=differ
 
 https://www.baeldung.com/spring-data-jpa-save-saveandflush
 
+# difference-between-save-and-saveandflush-in-spring-data-jpa
+
+https://stackoverflow.com/questions/21203875/difference-between-save-and-saveandflush-in-spring-data-jpa
+
